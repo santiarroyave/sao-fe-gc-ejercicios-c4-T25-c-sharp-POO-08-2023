@@ -25,6 +25,14 @@ namespace T25_C_Sharp_POO
             empleado1.MostrarDatos();
             empleado1.DebePagarImpuestos();
 
+            //Ejercicio 3
+            Console.WriteLine("\nEJERCICIO 3");
+            Operaciones operaciones = new Operaciones(20, 66);
+            operaciones.Suma();
+            operaciones.Resta();
+            operaciones.Multiplicacion();
+            operaciones.Division();
+
         }
     }
 }
