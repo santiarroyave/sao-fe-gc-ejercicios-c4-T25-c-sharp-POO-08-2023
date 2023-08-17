@@ -1,0 +1,14 @@
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\bin\Debug\net6.0\T25-C-Sharp-POO.exe
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\bin\Debug\net6.0\T25-C-Sharp-POO.deps.json
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\bin\Debug\net6.0\T25-C-Sharp-POO.runtimeconfig.json
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\bin\Debug\net6.0\T25-C-Sharp-POO.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\bin\Debug\net6.0\T25-C-Sharp-POO.pdb
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\obj\Debug\net6.0\T25-C-Sharp-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\obj\Debug\net6.0\T25-C-Sharp-POO.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\obj\Debug\net6.0\T25-C-Sharp-POO.AssemblyInfo.cs
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\obj\Debug\net6.0\T25-C-Sharp-POO.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\obj\Debug\net6.0\T25-C-Sharp-POO.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\obj\Debug\net6.0\refint\T25-C-Sharp-POO.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\obj\Debug\net6.0\T25-C-Sharp-POO.pdb
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\obj\Debug\net6.0\T25-C-Sharp-POO.genruntimeconfig.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023\T25-C-Sharp-POO\obj\Debug\net6.0\ref\T25-C-Sharp-POO.dll
