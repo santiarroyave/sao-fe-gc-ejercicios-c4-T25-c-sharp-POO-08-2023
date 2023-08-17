@@ -33,6 +33,10 @@ namespace T25_C_Sharp_POO
             operaciones.Multiplicacion();
             operaciones.Division();
 
+            //Ejercicio 4
+            Console.WriteLine("\nEJERCICIO 4");
+            PruebaPersona.Main();
+
         }
     }
 }
