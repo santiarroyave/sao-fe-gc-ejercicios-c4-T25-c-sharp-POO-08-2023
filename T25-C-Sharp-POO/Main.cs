@@ -47,7 +47,19 @@ namespace T25_C_Sharp_POO
 
             //Ejercicio 7
             Console.WriteLine("\nEJERCICIO 7");
-            Console.WriteLine("La clase se llama 'persona2.cs'");
+            Console.WriteLine("La clase se llama 'Persona2.cs'");
+
+            //Ejercicio 8
+            Console.WriteLine("\nEJERCICIO 8");
+            Console.WriteLine("La clase se llama 'Password.cs'");
+
+            //Ejercicio 9
+            Console.WriteLine("\nEJERCICIO 9");
+            Console.WriteLine("La clase se llama 'Electrodomestico.cs'");
+
+            //Ejercicio 10
+            Console.WriteLine("\nEJERCICIO 10");
+            Console.WriteLine("La clase se llama 'Serie.cs'");
         }
     }
 }
