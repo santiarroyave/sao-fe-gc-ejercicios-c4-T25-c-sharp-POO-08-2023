@@ -9,3 +9,4 @@
 - ex06: Crear clase Coche con 4 atributos. Agregar y mostrar valores.
 - ex07: Crear clase Persona2 con 6 atributos privados y 3 constructores.
 - ex08: Crear clase Password con 2 atributos, 2 constructores y un método generador de contraseñas.
+- ex09: Crear clase Electrodomestico con sus atributos y sus constructores.
