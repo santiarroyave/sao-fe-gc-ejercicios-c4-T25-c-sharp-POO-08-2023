@@ -41,6 +41,10 @@ namespace T25_C_Sharp_POO
             Console.WriteLine("\nEJERCICIO 5");
             Libro.Main();
 
+            //Ejercicio 6
+            Console.WriteLine("\nEJERCICIO 6");
+            Coche.Main();
+
         }
     }
 }

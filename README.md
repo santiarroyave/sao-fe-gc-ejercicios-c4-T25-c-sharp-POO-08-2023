@@ -6,3 +6,4 @@
 - ex03: Crear clase Operaciones con 2 atributos y 4 métodos con operaciones diferentes ( + , - , * , / ).
 - ex04: Crear clase Persona con 1 atributo , 1 Setter, y un método para saludar.
 - ex05: Crear clase Libro con 3 atributos, 3 Getters, 3 Setters y un Main para crear los Libros.
+- ex06: Crear clase Coche con 4 atributos. Agregar y mostrar valores.
