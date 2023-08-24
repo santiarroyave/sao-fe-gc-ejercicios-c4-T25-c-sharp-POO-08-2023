@@ -1,6 +1,6 @@
 # C4-T25 C# POO
-
-[Ver carpeta con los códigos](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023/tree/main/T25-C-Sharp-POO)
+- [Enunciados (pdf)](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023/blob/main/Enunciados/T09%20%E2%80%93%20POO.pdf)
+- [Ejercicios resueltos (.cs))](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T25-c-sharp-POO-08-2023/tree/main/T25-C-Sharp-POO)
 
 ## Enunciados
 - ex01: Crear clase Alumno con 2 atributos, 1 constructor y 2 métodos.
