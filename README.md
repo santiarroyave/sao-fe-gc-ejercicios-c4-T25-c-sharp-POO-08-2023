@@ -7,3 +7,4 @@
 - ex04: Crear clase Persona con 1 atributo , 1 Setter, y un método para saludar.
 - ex05: Crear clase Libro con 3 atributos, 3 Getters, 3 Setters y un Main para crear los Libros.
 - ex06: Crear clase Coche con 4 atributos. Agregar y mostrar valores.
+- ex07: Crear clase Persona2 con 6 atributos privados y 3 constructores.

@@ -45,6 +45,9 @@ namespace T25_C_Sharp_POO
             Console.WriteLine("\nEJERCICIO 6");
             Coche.Main();
 
+            //Ejercicio 7
+            Console.WriteLine("\nEJERCICIO 7");
+            Console.WriteLine("La clase se llama 'persona2.cs'");
         }
     }
 }
